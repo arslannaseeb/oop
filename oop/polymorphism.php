@@ -21,6 +21,7 @@ class Dog implements Animal {
   }
 }
 
+
 class Mouse implements Animal {
   public function makeSound() {
     echo " Squeak ";
